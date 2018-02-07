@@ -9,6 +9,6 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        textView1.text = "Test App 1";
+        textView1.text = "Test App 1 !!!"
     }
 }
